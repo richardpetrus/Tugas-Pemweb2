@@ -1,0 +1,3 @@
+kode buku|judul buku|pengarang|tahun terbit|jumlah halaman|penerbit|kategori|cover|3123213|sdhajk|sjdad|2002|213||sdakjd||
+1|Laskar Pelangi|Andrea Hirata|2005|259|Bentang|novel|Laskar_pelangi_sampul.jpg|
+90|Edensor|Andrea Hirata|2007|288|Bentang|novel|edensor.jpg|
